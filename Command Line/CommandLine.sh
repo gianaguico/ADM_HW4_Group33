@@ -35,6 +35,8 @@ echo $numb_males
 
 
 #In order to save some time, we've already computed the total expenditure both for males and females, which are respectively 1232845753.27 INR and 485254217.07 INR
+#If you want to check by yourself, just uncomment the following lines.
+
 #f_count=0
 
 #for i in $(cut -d "," -f 4,9 bank_transactions.csv | grep "F" | cut -d "," -f 2);do
@@ -48,6 +50,7 @@ echo $numb_males
 #done
 #Total expenditure of F: 485254217.07
 #Total expenditure of M: 1232845753.27
+
 f_count=485254217.07
 m_count=1232845753.27
 echo
