@@ -1,0 +1,23 @@
+
+Location for the maximum number of purchases been made:
+Location: MUMBAI
+Total of purchases in INR: 12840859852940 INR
+--------------------------------------------------------------------------------------
+
+Number of females:
+281936
+Number of males:
+765530
+
+Males spend more than Females.
+Males spent: 1232845753.27
+--------------------------------------------------------------------------------------
+
+The highest transaction amount, thus the highest average transaction amount, is:
+1560034.99
+
+The highest average is:
+1,49
+
+Customer Information:
+T399118,C7319271,25/5/76,M,GURGAON,42487.89,18/8/16,132711,1560034.99
