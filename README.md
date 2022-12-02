@@ -1,7 +1,7 @@
 # Homework 4
 Repository for the fourth homework of ADM A.Y. 2022/2023.
 
-`==Group members==`:
+`Group members`:
 - Gian Alvin Guico
 - Erica Luciani
 - Federico Argilli
