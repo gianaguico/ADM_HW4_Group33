@@ -101,6 +101,6 @@ def random_coef(n_hash, M):
 
 def jaccard(x,y):
     A = set([i for i in x])
-    B = set([i for i in y])
+    B = set([j for j in y])
 
     return len(A.intersection(B))/len(A.union(B))
