@@ -8,6 +8,6 @@ Repository for the fourth homework of ADM A.Y. 2022/2023.
 - Maria Alejandra Peña - 2056718
 
 In the this repository you fill find:
-- `main.ipynb`: the main notebook of HW 4
 - `Command Line` folder, which contains the bash script and its output in a `.txt` file
+- `main.ipynb`: the main notebook of HW 4
 - `functions.py` is a python script comprising all functions used in Exercise 1
