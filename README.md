@@ -11,3 +11,4 @@ In the this repository you fill find:
 - `main.ipynb`: the main notebook of HW 4
 - `Algorithmic_Question.ipynb`: a separated notebook for the algorithmic question
 - `Command Line` folder, which contains the bash script and its output in a `.txt` file
+- `functions.py` is a python script comprising all functions used in Exercise 1
